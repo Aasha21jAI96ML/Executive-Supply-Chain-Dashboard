@@ -1,0 +1,15 @@
+ERP System
+    │
+    ├── Purchase Orders
+    ├── Inventory Transactions
+    ├── Supplier Master
+    └── Material Master
+            │
+            ▼
+      SQL/Snowflake
+            │
+            ▼
+       Power BI Model
+            │
+            ▼
+ Executive Supply Chain Dashboard
